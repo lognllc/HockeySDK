@@ -1,4 +1,4 @@
-hockeyapp
+HockeySDK
 =========
 
 HockeyApp Framework Repo for iOS
